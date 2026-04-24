@@ -78,7 +78,7 @@
 
 ## 📊 GitHub Stats
 
-*(You can add GitHub stats here later using tools like GitHub Readme Stats)*
+*(avilable soon)*
 
 ---
 
