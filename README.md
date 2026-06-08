@@ -1,96 +1,201 @@
-# 👋 Hey, I'm Dhruv Pandey
+# Hi 👋, I'm Dhruv Pandey
 
-🚀 **MERN Stack Developer | C++ | Docker Enthusiast**
-💻 Building real-world projects & solving problems with code
+### Full Stack Developer | React • TypeScript • Node.js • MongoDB
 
----
-
-## 🔥 About Me
-
-* 🎓 B.Tech IT Student
-* 💡 Passionate about Full Stack Development
-* 🧠 Strong in Data Structures & Problem Solving
-* ⚡ Love turning ideas into real applications
-* 🎯 Goal: Earn through skills & build impactful projects
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Modern+Web+Applications;Open+To+Internship+Opportunities" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-💻 **Languages:** C, C++, JavaScript
-🌐 **Frontend:** React.js, HTML, CSS, Tailwind
-⚙️ **Backend:** Node.js, Express.js
-🗄️ **Database:** MongoDB
-🐳 **Tools:** Docker, Git, GitHub
+🎓 B.Tech Information Technology Student
 
----
+💻 Full Stack Developer passionate about building modern web applications
 
-## 🚀 Featured Projects
+🧠 Strong foundation in Data Structures & Algorithms
 
-### 🔗 Bitree (Linktree Clone)
+⚡ Building projects using React, TypeScript, Node.js, Express.js and MongoDB
 
-👉 A full MERN stack app to manage and share multiple links
+🌱 Currently improving Backend Development and System Design skills
 
-* Add social & personal links in one place
-* Clean and responsive UI
-* REST API based backend
+🎯 Looking for Frontend, Backend and Full Stack Internship Opportunities
 
 ---
 
-### ☕ GetMeChai (Creator Support Platform)
+## 🛠 Tech Stack
 
-👉 A MERN-based donation platform
+### Languages
 
-* Users can support creators
-* Dynamic frontend with API integration
-* Scalable backend structure
+* C
+* C++
+* JavaScript
+* TypeScript
 
----
+### Frontend
 
-### 🔐 PassOP (Password Manager)
+* React.js
+* HTML5
+* CSS3
+* Tailwind CSS
+* Context API
 
-👉 Secure password manager application
+### Backend
 
-* Store credentials safely
-* MongoDB + local storage support
-* Basic encryption implemented
+* Node.js
+* Express.js
+* REST APIs
 
----
+### Database
 
-### 🐦 Twitter/X Clone (Frontend)
+* MongoDB
+* MongoDB Atlas
+* Mongoose
 
-👉 Modern UI inspired by social media platforms
+### Tools
 
-* Built with React
-* Fully responsive design
-
----
-
-## 💼 What I Can Do
-
-✔️ Build full MERN stack applications
-✔️ Create modern responsive UIs
-✔️ Fix bugs in React / Node.js apps
-✔️ Dockerize applications
-✔️ Solve C/C++ and DSA problems
-
----
-
-## 📊 GitHub Stats
-
-*(avilable soon)*
+* Git
+* GitHub
+* Vercel
+* Appwrite
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 Featured Projects
 
-📧 Email: [dhruvpandey@gmail.com](mailto:dhruvpandey@gmail.com)
-💼 Fiverr: (add your link)
+## 📝 Mega Blog
+
+### Live Demo
+
+https://mega-blog-ashen-zeta.vercel.app/
+
+A modern blogging platform with authentication and content management.
+
+### Features
+
+✅ User Authentication
+
+✅ Create Blog Posts
+
+✅ Edit Blog Posts
+
+✅ Delete Blog Posts
+
+✅ Responsive Design
+
+✅ Rich Text Editor
+
+### Tech Stack
+
+React • Appwrite • Tailwind CSS
+
+---
+
+## 💰 Expense Tracker
+
+### Live Demo
+
+https://expense-tracker-peach-nu-98.vercel.app/
+
+A modern expense management application with a clean dark-themed interface.
+
+### Features
+
+✅ Add Expenses
+
+✅ Delete Expenses
+
+✅ Real-Time Total Calculation
+
+✅ TypeScript Integration
+
+✅ Responsive Design
+
+### Tech Stack
+
+React • TypeScript • Tailwind CSS
+
+---
+
+## 📚 NoteVault
+
+### Live Demo
+
+https://note-vault-murex-five.vercel.app/
+
+A note management application built for organizing ideas efficiently.
+
+### Features
+
+✅ Create Notes
+
+✅ Edit Notes
+
+✅ Delete Notes
+
+✅ Context API State Management
+
+✅ Responsive UI
+
+### Tech Stack
+
+React • Context API • Tailwind CSS
+
+---
+
+## ⚙️ Expense Tracker Backend API
+
+REST API built using Node.js, Express.js and MongoDB Atlas.
+
+### Features
+
+✅ REST API Architecture
+
+✅ MongoDB Atlas Integration
+
+✅ Mongoose Validation
+
+✅ Scalable Backend Structure
+
+### Tech Stack
+
+Node.js • Express.js • MongoDB
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=47dhruv&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=47dhruv&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+* Build Production Ready MERN Applications
+* Learn System Design
+* Improve DSA Problem Solving
+* Contribute to Open Source
+* Secure a Software Development Internship
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [dhruvpandey744@gmail.com](mailto:dhruvpandey744@gmail.com)
+
 💻 GitHub: https://github.com/47dhruv
+
+📍 Bhopal, Madhya Pradesh, India
 
 ---
 
 ## ⚡ Fun Fact
 
-I don’t just write code… I build solutions that actually work 😎
-
+I enjoy turning ideas into real-world applications and continuously improving my development skills through hands-on projects.
